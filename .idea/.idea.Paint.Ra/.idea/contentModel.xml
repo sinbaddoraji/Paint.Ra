@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\osinachi\.Rider2018.1\system\resharper-host\local\Transient\ReSharperHost\v12\SolutionCaches\_Paint.Ra.485003841.00" t="ExcludeRecursive" />
+    <e p="C:\Users\osinachi\Documents\Visual Studio 2017\Projects\Paint.Ra" t="IncludeFlat">
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Paint.Ra" t="IncludeRecursive">
+        <e p="App.config" t="Include" />
+        <e p="Behaviour.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Brush.cs" t="Include" />
+        <e p="Canvas.cs" t="Include" />
+        <e p="DrawLine.cs" t="Include" />
+        <e p="DrawMode.cs" t="Include" />
+        <e p="DrawShape.cs" t="Include" />
+        <e p="Form1.cs" t="Include" />
+        <e p="Form1.Designer.cs" t="Include" />
+        <e p="Form1.resx" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Paint.Ra.csproj" t="IncludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+          <e p="Resources.Designer.cs" t="Include" />
+          <e p="Resources.resx" t="Include" />
+          <e p="Settings.Designer.cs" t="Include" />
+          <e p="Settings.settings" t="Include" />
+        </e>
+        <e p="Resources" t="Include">
+          <e p="Brush-3-icon.png" t="Include" />
+          <e p="circ.png" t="Include" />
+          <e p="Diamond.png" t="Include" />
+          <e p="Fill.png" t="Include" />
+          <e p="JL.png" t="Include" />
+          <e p="Minus.png" t="Include" />
+          <e p="Pen-icon.png" t="Include" />
+          <e p="Pls.png" t="Include" />
+          <e p="Plus.png" t="Include" />
+          <e p="RAT.png" t="Include" />
+          <e p="rect.png" t="Include" />
+          <e p="Redo.png" t="Include" />
+          <e p="substract.png" t="Include" />
+          <e p="T.png" t="Include" />
+          <e p="Undo.png" t="Include" />
+          <e p="Wrap.png" t="Include" />
+        </e>
+        <e p="Template.txt" t="Include" />
+      </e>
+      <e p="Paint.Ra.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>

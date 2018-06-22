@@ -1,0 +1,10 @@
+C:\Users\osinachi\Documents\Visual Studio 2017\Projects\Paint.Ra\Paint.Ra\bin\Debug\Paint.Ra.exe.config
+C:\Users\osinachi\Documents\Visual Studio 2017\Projects\Paint.Ra\Paint.Ra\bin\Debug\Paint.Ra.exe
+C:\Users\osinachi\Documents\Visual Studio 2017\Projects\Paint.Ra\Paint.Ra\bin\Debug\Paint.Ra.pdb
+C:\Users\osinachi\Documents\Visual Studio 2017\Projects\Paint.Ra\Paint.Ra\obj\Debug\Paint.Ra.csprojAssemblyReference.cache
+C:\Users\osinachi\Documents\Visual Studio 2017\Projects\Paint.Ra\Paint.Ra\obj\Debug\Paint.Ra.Properties.Resources.resources
+C:\Users\osinachi\Documents\Visual Studio 2017\Projects\Paint.Ra\Paint.Ra\obj\Debug\Paint.Ra.csproj.GenerateResource.cache
+C:\Users\osinachi\Documents\Visual Studio 2017\Projects\Paint.Ra\Paint.Ra\obj\Debug\Paint.Ra.csproj.CoreCompileInputs.cache
+C:\Users\osinachi\Documents\Visual Studio 2017\Projects\Paint.Ra\Paint.Ra\obj\Debug\Paint.Ra.exe
+C:\Users\osinachi\Documents\Visual Studio 2017\Projects\Paint.Ra\Paint.Ra\obj\Debug\Paint.Ra.pdb
+C:\Users\osinachi\Documents\Visual Studio 2017\Projects\Paint.Ra\Paint.Ra\obj\Debug\Paint.Ra.Form1.resources

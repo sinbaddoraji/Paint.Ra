@@ -1,0 +1,754 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="777fa516-a9d8-444a-8b80-64261591da8d" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Paint.Ra" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Behaviour.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Paint.Ra/Behaviour.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="332">
+              <caret line="56" column="34" selection-start-line="56" selection-start-column="34" selection-end-line="56" selection-end-column="34" />
+              <folding>
+                <marker date="1529511135735" expanded="true" signature="6:81" ph="..." />
+                <marker date="1529511135735" expanded="true" signature="101:2219" ph="{...}" />
+                <marker date="1529511135735" expanded="true" signature="144:2217" ph="{...}" />
+                <marker date="1529511135735" expanded="true" signature="159:686" ph="Undo Redo" />
+                <marker date="1529511135735" expanded="true" signature="204:426" ph="{...}" />
+                <marker date="1529511135735" expanded="true" signature="230:343" ph="{...}" />
+                <marker date="1529511135735" expanded="true" signature="374:416" ph="{...}" />
+                <marker date="1529511135735" expanded="true" signature="453:658" ph="{...}" />
+                <marker date="1529511135735" expanded="true" signature="479:575" ph="{...}" />
+                <marker date="1529511135735" expanded="true" signature="606:648" ph="{...}" />
+                <marker date="1529511135735" expanded="true" signature="696:1316" ph="Image Control" />
+                <marker date="1529511135735" expanded="false" signature="772:1048" ph="{...}" />
+                <marker date="1529511135735" expanded="true" signature="1088:1288" ph="{...}" />
+                <marker date="1529511135735" expanded="true" signature="1149:1211" ph="{...}" />
+                <marker date="1529511135735" expanded="false" signature="1326:1506" ph="Set Line Anchor" />
+                <marker date="1529511135735" expanded="true" signature="1400:1486" ph="{...}" />
+                <marker date="1529511135735" expanded="false" signature="1516:2210" ph="Common mouse controls" />
+                <marker date="1529511135735" expanded="true" signature="1617:1889" ph="{...}" />
+                <marker date="1529511135735" expanded="true" signature="1959:2048" ph="{...}" />
+                <marker date="1529511135735" expanded="true" signature="2120:2190" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Brush.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Paint.Ra/Brush.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="459">
+              <caret line="29" column="33" selection-start-line="29" selection-start-column="33" selection-end-line="29" selection-end-column="33" />
+              <folding>
+                <marker date="1529510215395" expanded="false" signature="6:81" ph="..." />
+                <marker date="1529510215395" expanded="true" signature="101:1624" ph="{...}" />
+                <marker date="1529510215395" expanded="true" signature="144:1622" ph="{...}" />
+                <marker date="1529510215395" expanded="true" signature="183:1098" ph="{...}" />
+                <marker date="1529510215395" expanded="true" signature="415:1012" ph="{...}" />
+                <marker date="1529510215395" expanded="true" signature="509:998" ph="{...}" />
+                <marker date="1529510215395" expanded="true" signature="629:749" ph="{...}" />
+                <marker date="1529510215395" expanded="false" signature="1108:1608" ph="Mouse Events" />
+                <marker date="1529510215395" expanded="false" signature="1198:1430" ph="{...}" />
+                <marker date="1529510215395" expanded="false" signature="1499:1588" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DrawLine.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Paint.Ra/DrawLine.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="122">
+              <caret line="29" column="22" selection-start-line="29" selection-start-column="22" selection-end-line="29" selection-end-column="22" />
+              <folding>
+                <marker date="1529510215616" expanded="true" signature="6:81" ph="..." />
+                <marker date="1529510215616" expanded="true" signature="101:1746" ph="{...}" />
+                <marker date="1529510215616" expanded="true" signature="144:1744" ph="{...}" />
+                <marker date="1529510215616" expanded="true" signature="291:1011" ph="{...}" />
+                <marker date="1529510215616" expanded="true" signature="619:930" ph="{...}" />
+                <marker date="1529510215616" expanded="true" signature="715:916" ph="{...}" />
+                <marker date="1529510215616" expanded="true" signature="1021:1721" ph="Mouse Events" />
+                <marker date="1529510215616" expanded="false" signature="1113:1426" ph="{...}" />
+                <marker date="1529510215616" expanded="true" signature="1152:1256" ph="{...}" />
+                <marker date="1529510215616" expanded="true" signature="1273:1377" ph="{...}" />
+                <marker date="1529510215616" expanded="false" signature="1494:1701" ph="{...}" />
+                <marker date="1529510215616" expanded="true" signature="1614:1691" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DrawMode.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Paint.Ra/DrawMode.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret line="1" column="27" selection-start-line="1" selection-start-column="27" selection-end-line="1" selection-end-column="27" />
+              <folding>
+                <marker date="1529510215716" expanded="true" signature="6:41" ph="..." />
+                <marker date="1529510215716" expanded="true" signature="61:4115" ph="{...}" />
+                <marker date="1529510215716" expanded="true" signature="117:4113" ph="{...}" />
+                <marker date="1529510215716" expanded="true" signature="152:270" ph="{...}" />
+                <marker date="1529510215716" expanded="false" signature="453:2904" ph="Draw Mode Control" />
+                <marker date="1529510215716" expanded="true" signature="522:2680" ph="{...}" />
+                <marker date="1529510215716" expanded="true" signature="595:2618" ph="{...}" />
+                <marker date="1529510215716" expanded="true" signature="2734:2884" ph="{...}" />
+                <marker date="1529510215716" expanded="false" signature="2914:3311" ph="ShapeMode" />
+                <marker date="1529510215716" expanded="true" signature="2969:3291" ph="{...}" />
+                <marker date="1529510215716" expanded="false" signature="3321:3757" ph="Line Mode" />
+                <marker date="1529510215716" expanded="true" signature="3376:3727" ph="{...}" />
+                <marker date="1529510215716" expanded="false" signature="3767:4107" ph="Brush Mode" />
+                <marker date="1529510215716" expanded="true" signature="3823:4087" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Form1.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Paint.Ra/Form1.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="28">
+              <caret line="81" selection-start-line="81" selection-end-line="81" />
+              <folding>
+                <marker date="1529511135787" expanded="true" signature="6:148" ph="..." />
+                <marker date="1529511135787" expanded="true" signature="168:12671" ph="{...}" />
+                <marker date="1529511135787" expanded="true" signature="208:12669" ph="{...}" />
+                <marker date="1529511135787" expanded="true" signature="338:786" ph="{...}" />
+                <marker date="1529511135787" expanded="true" signature="2038:2112" ph="{...}" />
+                <marker date="1529511135787" expanded="true" signature="2175:2335" ph="{...}" />
+                <marker date="1529511135787" expanded="true" signature="2244:2325" ph="{...}" />
+                <marker date="1529511135787" expanded="true" signature="2408:2476" ph="{...}" />
+                <marker date="1529511135787" expanded="true" signature="2538:2681" ph="{...}" />
+                <marker date="1529511135787" expanded="true" signature="2599:2671" ph="{...}" />
+                <marker date="1529511135787" expanded="true" signature="2755:2823" ph="{...}" />
+                <marker date="1529511135787" expanded="true" signature="3437:3894" ph="{...}" />
+                <marker date="1529511135787" expanded="true" signature="3966:4108" ph="{...}" />
+                <marker date="1529511135787" expanded="true" signature="4181:4326" ph="{...}" />
+                <marker date="1529511135787" expanded="true" signature="4397:4754" ph="{...}" />
+                <marker date="1529511135787" expanded="true" signature="4432:4731" ph="{...}" />
+                <marker date="1529511135787" expanded="true" signature="4478:4717" ph="{...}" />
+                <marker date="1529511135787" expanded="true" signature="4823:7842" ph="{...}" />
+                <marker date="1529511135787" expanded="true" signature="4873:7830" ph="{...}" />
+                <marker date="1529511135787" expanded="true" signature="4959:5123" ph="{...}" />
+                <marker date="1529511135787" expanded="true" signature="5198:5370" ph="{...}" />
+                <marker date="1529511135787" expanded="true" signature="5449:5615" ph="{...}" />
+                <marker date="1529511135787" expanded="true" signature="5704:6115" ph="{...}" />
+                <marker date="1529511135787" expanded="true" signature="6194:6628" ph="{...}" />
+                <marker date="1529511135787" expanded="true" signature="6706:7815" ph="{...}" />
+                <marker date="1529511135787" expanded="true" signature="7408:7528" ph="{...}" />
+                <marker date="1529511135787" expanded="true" signature="7950:8034" ph="{...}" />
+                <marker date="1529511135787" expanded="true" signature="8103:8183" ph="{...}" />
+                <marker date="1529511135787" expanded="true" signature="8259:8564" ph="{...}" />
+                <marker date="1529511135787" expanded="true" signature="8307:8421" ph="{...}" />
+                <marker date="1529511135787" expanded="true" signature="8438:8554" ph="{...}" />
+                <marker date="1529511135787" expanded="true" signature="8642:9081" ph="{...}" />
+                <marker date="1529511135787" expanded="true" signature="8681:9031" ph="{...}" />
+                <marker date="1529511135787" expanded="true" signature="8737:8834" ph="{...}" />
+                <marker date="1529511135787" expanded="true" signature="8855:9017" ph="{...}" />
+                <marker date="1529511135787" expanded="true" signature="9159:9225" ph="{...}" />
+                <marker date="1529511135787" expanded="true" signature="9308:10698" ph="{...}" />
+                <marker date="1529511135787" expanded="true" signature="9354:10688" ph="{...}" />
+                <marker date="1529511135787" expanded="true" signature="10779:12123" ph="{...}" />
+                <marker date="1529511135787" expanded="true" signature="10838:12113" ph="{...}" />
+                <marker date="1529511135787" expanded="true" signature="12187:12393" ph="{...}" />
+                <marker date="1529511135787" expanded="true" signature="12213:12310" ph="{...}" />
+                <marker date="1529511135787" expanded="true" signature="12341:12383" ph="{...}" />
+                <marker date="1529511135787" expanded="true" signature="12457:12663" ph="{...}" />
+                <marker date="1529511135787" expanded="true" signature="12483:12580" ph="{...}" />
+                <marker date="1529511135787" expanded="true" signature="12598:12653" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Form1.Designer.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Paint.Ra/Form1.Designer.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="227" column="78" selection-start-line="227" selection-start-column="78" selection-end-line="227" selection-end-column="78" />
+              <folding>
+                <marker date="1529510898083" expanded="false" signature="6:56" ph="..." />
+                <marker date="1529510898083" expanded="true" signature="76:28946" ph="{...}" />
+                <marker date="1529510898083" expanded="true" signature="102:28944" ph="{...}" />
+                <marker date="1529510898083" expanded="true" signature="117:193" ph="/// Required designer variable. ... " />
+                <marker date="1529510898083" expanded="true" signature="249:440" ph="/// Clean up any resources being used. ... " />
+                <marker date="1529510898083" expanded="true" signature="496:670" ph="{...}" />
+                <marker date="1529510898083" expanded="true" signature="557:623" ph="{...}" />
+                <marker date="1529510898083" expanded="true" signature="680:27885" ph="Windows Form Designer generated code" />
+                <marker date="1529510898083" expanded="true" signature="734:897" ph="/// Required method for Designer support - do not modify ... " />
+                <marker date="1529510898083" expanded="true" signature="940:27865" ph="{...}" />
+                <marker date="1529510898083" expanded="true" signature="3346:3387" ph="/* panel1 ... */" />
+                <marker date="1529510898083" expanded="true" signature="3901:3942" ph="/* panel2 ... */" />
+                <marker date="1529510898083" expanded="true" signature="4523:4564" ph="/* panel3 ... */" />
+                <marker date="1529510898083" expanded="true" signature="4788:4829" ph="/* label2 ... */" />
+                <marker date="1529510898083" expanded="true" signature="5135:5175" ph="/* sizes ... */" />
+                <marker date="1529510898083" expanded="true" signature="5568:5619" ph="/* flowLayoutPanel1 ... */" />
+                <marker date="1529510898083" expanded="true" signature="6619:6663" ph="/* comboBox1 ... */" />
+                <marker date="1529510898083" expanded="true" signature="6772:7021" ph="{...}" />
+                <marker date="1529510898083" expanded="true" signature="7422:7463" ph="/* label1 ... */" />
+                <marker date="1529510898083" expanded="true" signature="7776:7817" ph="/* label3 ... */" />
+                <marker date="1529510898083" expanded="true" signature="8129:8173" ph="/* comboBox2 ... */" />
+                <marker date="1529510898083" expanded="true" signature="8282:8531" ph="{...}" />
+                <marker date="1529510898083" expanded="true" signature="8931:8973" ph="/* button4 ... */" />
+                <marker date="1529510898083" expanded="true" signature="9972:10014" ph="/* button3 ... */" />
+                <marker date="1529510898083" expanded="true" signature="11011:11058" ph="/* radioButton2 ... */" />
+                <marker date="1529510898083" expanded="true" signature="12125:12172" ph="/* radioButton7 ... */" />
+                <marker date="1529510898083" expanded="true" signature="13241:13288" ph="/* radioButton1 ... */" />
+                <marker date="1529510898083" expanded="true" signature="14445:14492" ph="/* radioButton4 ... */" />
+                <marker date="1529510898083" expanded="true" signature="15553:15600" ph="/* radioButton8 ... */" />
+                <marker date="1529510898083" expanded="true" signature="16692:16739" ph="/* radioButton5 ... */" />
+                <marker date="1529510898083" expanded="true" signature="17898:17945" ph="/* radioButton6 ... */" />
+                <marker date="1529510898083" expanded="true" signature="18964:19011" ph="/* radioButton9 ... */" />
+                <marker date="1529510898083" expanded="true" signature="20077:20125" ph="/* radioButton10 ... */" />
+                <marker date="1529510898083" expanded="true" signature="21223:21267" ph="/* checkBox1 ... */" />
+                <marker date="1529510898083" expanded="true" signature="22290:22332" ph="/* button2 ... */" />
+                <marker date="1529510898083" expanded="true" signature="23112:23154" ph="/* button1 ... */" />
+                <marker date="1529510898083" expanded="true" signature="23934:23976" ph="/* canvas1 ... */" />
+                <marker date="1529510898083" expanded="true" signature="25442:25489" ph="/* radioButton3 ... */" />
+                <marker date="1529510898083" expanded="true" signature="26546:26586" ph="/* Form1 ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DrawShape.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Paint.Ra/DrawShape.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="116" column="39" selection-start-line="116" selection-start-column="39" selection-end-line="116" selection-end-column="39" />
+              <folding>
+                <marker date="1529510215532" expanded="true" signature="6:95" ph="..." />
+                <marker date="1529510215532" expanded="true" signature="115:6503" ph="{...}" />
+                <marker date="1529510215532" expanded="true" signature="158:6501" ph="{...}" />
+                <marker date="1529510215532" expanded="true" signature="195:281" ph="{...}" />
+                <marker date="1529510215532" expanded="true" signature="382:994" ph="{...}" />
+                <marker date="1529510215532" expanded="true" signature="614:872" ph="{...}" />
+                <marker date="1529510215532" expanded="true" signature="1004:5955" ph="Shape Draw" />
+                <marker date="1529510215532" expanded="false" signature="1083:3318" ph="{...}" />
+                <marker date="1529510215532" expanded="true" signature="1159:1255" ph="{...}" />
+                <marker date="1529510215532" expanded="true" signature="1294:3308" ph="{...}" />
+                <marker date="1529510215532" expanded="true" signature="3378:5935" ph="{...}" />
+                <marker date="1529510215532" expanded="true" signature="3477:5925" ph="{...}" />
+                <marker date="1529510215532" expanded="false" signature="5965:6495" ph="Mouse Events" />
+                <marker date="1529510215532" expanded="false" signature="6057:6240" ph="{...}" />
+                <marker date="1529510215532" expanded="false" signature="6309:6475" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Canvas.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Paint.Ra/Canvas.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="48" column="12" selection-start-line="48" selection-start-column="12" selection-end-line="48" selection-end-column="12" />
+              <folding>
+                <marker date="1529510215450" expanded="false" signature="6:129" ph="..." />
+                <marker date="1529510215450" expanded="true" signature="149:1691" ph="{...}" />
+                <marker date="1529510215450" expanded="true" signature="192:1689" ph="{...}" />
+                <marker date="1529510215450" expanded="true" signature="1268:1647" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Paint.Ra/DrawLine.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Paint.Ra/Canvas.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Paint.Ra/Form1.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Paint.Ra/DrawMode.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Paint.Ra/Form1.Designer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Paint.Ra/DrawShape.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Paint.Ra/Brush.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Paint.Ra/Behaviour.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Paint.Ra/brush.cs" />
+        <option value="$PROJECT_DIR$/Paint.Ra/HandlerControl.cs" />
+        <option value="$PROJECT_DIR$/Paint.Ra/ItemProperty.cs" />
+        <option value="$PROJECT_DIR$/Paint.Ra/Core.cs" />
+        <option value="$PROJECT_DIR$/Paint.Ra/DrawMode.cs" />
+        <option value="$PROJECT_DIR$/Paint.Ra/Brush.cs" />
+        <option value="$PROJECT_DIR$/Paint.Ra/DrawShape.cs" />
+        <option value="$PROJECT_DIR$/Paint.Ra/DrawLine.cs" />
+        <option value="$PROJECT_DIR$/Paint.Ra/Canvas.cs" />
+        <option value="$PROJECT_DIR$/Paint.Ra/Form1.Designer.cs" />
+        <option value="$PROJECT_DIR$/Paint.Ra/Form1.cs" />
+        <option value="$PROJECT_DIR$/Paint.Ra/Behaviour.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-7" />
+    <option name="width" value="763" />
+    <option name="height" value="775" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Paint.Ra (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Paint.Ra (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Paint.Ra" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Paint.Ra (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Paint.Ra" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Form1.cs" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Paint.Ra (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Paint.Ra" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Form1.cs" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Form1.resx" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/Paint.Ra/bin/Debug/Paint.Ra.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Paint.Ra/bin/Debug" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Paint.Ra/Paint.Ra.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.6.1" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="777fa516-a9d8-444a-8b80-64261591da8d" name="Default" comment="" />
+      <created>1529173948499</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1529173948499</updated>
+      <workItem from="1529173974053" duration="1406000" />
+      <workItem from="1529502108545" duration="8677000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="10083000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Unit Tests" order="7" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32972136" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="NuGet" order="7" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13388805" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Build" order="7" weight="0.32972136" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" isUnityUI="false" />
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="4" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Paint.Ra/Brush.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="8" column="36" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
+          <folding>
+            <marker date="1529510215395" expanded="false" signature="6:81" ph="..." />
+            <marker date="1529510215395" expanded="true" signature="101:1624" ph="{...}" />
+            <marker date="1529510215395" expanded="true" signature="144:1622" ph="{...}" />
+            <marker date="1529510215395" expanded="true" signature="183:1098" ph="{...}" />
+            <marker date="1529510215395" expanded="true" signature="415:1012" ph="{...}" />
+            <marker date="1529510215395" expanded="true" signature="509:998" ph="{...}" />
+            <marker date="1529510215395" expanded="true" signature="629:749" ph="{...}" />
+            <marker date="1529510215395" expanded="false" signature="1108:1608" ph="Mouse Events" />
+            <marker date="1529510215395" expanded="false" signature="1198:1430" ph="{...}" />
+            <marker date="1529510215395" expanded="false" signature="1499:1588" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Paint.Ra/DrawLine.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="42" column="24" selection-start-line="42" selection-start-column="24" selection-end-line="42" selection-end-column="26" />
+          <folding>
+            <marker date="1529510215616" expanded="true" signature="6:81" ph="..." />
+            <marker date="1529510215616" expanded="true" signature="101:1746" ph="{...}" />
+            <marker date="1529510215616" expanded="true" signature="144:1744" ph="{...}" />
+            <marker date="1529510215616" expanded="true" signature="291:1011" ph="{...}" />
+            <marker date="1529510215616" expanded="true" signature="619:930" ph="{...}" />
+            <marker date="1529510215616" expanded="true" signature="715:916" ph="{...}" />
+            <marker date="1529510215616" expanded="true" signature="1021:1721" ph="Mouse Events" />
+            <marker date="1529510215616" expanded="false" signature="1113:1426" ph="{...}" />
+            <marker date="1529510215616" expanded="true" signature="1152:1256" ph="{...}" />
+            <marker date="1529510215616" expanded="true" signature="1273:1377" ph="{...}" />
+            <marker date="1529510215616" expanded="false" signature="1494:1701" ph="{...}" />
+            <marker date="1529510215616" expanded="true" signature="1614:1691" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Paint.Ra/DrawMode.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="799">
+          <caret line="47" column="8" selection-start-line="47" selection-start-column="8" selection-end-line="47" selection-end-column="8" />
+          <folding>
+            <marker date="1529510215716" expanded="true" signature="6:41" ph="..." />
+            <marker date="1529510215716" expanded="true" signature="61:4115" ph="{...}" />
+            <marker date="1529510215716" expanded="true" signature="117:4113" ph="{...}" />
+            <marker date="1529510215716" expanded="true" signature="152:270" ph="{...}" />
+            <marker date="1529510215716" expanded="false" signature="453:2904" ph="Draw Mode Control" />
+            <marker date="1529510215716" expanded="true" signature="522:2680" ph="{...}" />
+            <marker date="1529510215716" expanded="true" signature="595:2618" ph="{...}" />
+            <marker date="1529510215716" expanded="true" signature="2734:2884" ph="{...}" />
+            <marker date="1529510215716" expanded="false" signature="2914:3311" ph="ShapeMode" />
+            <marker date="1529510215716" expanded="true" signature="2969:3291" ph="{...}" />
+            <marker date="1529510215716" expanded="false" signature="3321:3757" ph="Line Mode" />
+            <marker date="1529510215716" expanded="true" signature="3376:3727" ph="{...}" />
+            <marker date="1529510215716" expanded="false" signature="3767:4107" ph="Brush Mode" />
+            <marker date="1529510215716" expanded="true" signature="3823:4087" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Paint.Ra/Canvas.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1071">
+          <caret line="80" column="19" selection-start-line="80" selection-start-column="19" selection-end-line="80" selection-end-column="19" />
+          <folding>
+            <marker date="1529510215450" expanded="false" signature="6:129" ph="..." />
+            <marker date="1529510215450" expanded="true" signature="149:1691" ph="{...}" />
+            <marker date="1529510215450" expanded="true" signature="192:1689" ph="{...}" />
+            <marker date="1529510215450" expanded="true" signature="1268:1647" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Paint.Ra/Brush.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="29" column="33" selection-start-line="29" selection-start-column="33" selection-end-line="29" selection-end-column="33" />
+          <folding>
+            <marker date="1529510215395" expanded="false" signature="6:81" ph="..." />
+            <marker date="1529510215395" expanded="true" signature="101:1624" ph="{...}" />
+            <marker date="1529510215395" expanded="true" signature="144:1622" ph="{...}" />
+            <marker date="1529510215395" expanded="true" signature="183:1098" ph="{...}" />
+            <marker date="1529510215395" expanded="true" signature="415:1012" ph="{...}" />
+            <marker date="1529510215395" expanded="true" signature="509:998" ph="{...}" />
+            <marker date="1529510215395" expanded="true" signature="629:749" ph="{...}" />
+            <marker date="1529510215395" expanded="false" signature="1108:1608" ph="Mouse Events" />
+            <marker date="1529510215395" expanded="false" signature="1198:1430" ph="{...}" />
+            <marker date="1529510215395" expanded="false" signature="1499:1588" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Paint.Ra/DrawLine.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="29" column="22" selection-start-line="29" selection-start-column="22" selection-end-line="29" selection-end-column="22" />
+          <folding>
+            <marker date="1529510215616" expanded="true" signature="6:81" ph="..." />
+            <marker date="1529510215616" expanded="true" signature="101:1746" ph="{...}" />
+            <marker date="1529510215616" expanded="true" signature="144:1744" ph="{...}" />
+            <marker date="1529510215616" expanded="true" signature="291:1011" ph="{...}" />
+            <marker date="1529510215616" expanded="true" signature="619:930" ph="{...}" />
+            <marker date="1529510215616" expanded="true" signature="715:916" ph="{...}" />
+            <marker date="1529510215616" expanded="true" signature="1021:1721" ph="Mouse Events" />
+            <marker date="1529510215616" expanded="false" signature="1113:1426" ph="{...}" />
+            <marker date="1529510215616" expanded="true" signature="1152:1256" ph="{...}" />
+            <marker date="1529510215616" expanded="true" signature="1273:1377" ph="{...}" />
+            <marker date="1529510215616" expanded="false" signature="1494:1701" ph="{...}" />
+            <marker date="1529510215616" expanded="true" signature="1614:1691" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Paint.Ra/DrawMode.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="1" column="27" selection-start-line="1" selection-start-column="27" selection-end-line="1" selection-end-column="27" />
+          <folding>
+            <marker date="1529510215716" expanded="true" signature="6:41" ph="..." />
+            <marker date="1529510215716" expanded="true" signature="61:4115" ph="{...}" />
+            <marker date="1529510215716" expanded="true" signature="117:4113" ph="{...}" />
+            <marker date="1529510215716" expanded="true" signature="152:270" ph="{...}" />
+            <marker date="1529510215716" expanded="false" signature="453:2904" ph="Draw Mode Control" />
+            <marker date="1529510215716" expanded="true" signature="522:2680" ph="{...}" />
+            <marker date="1529510215716" expanded="true" signature="595:2618" ph="{...}" />
+            <marker date="1529510215716" expanded="true" signature="2734:2884" ph="{...}" />
+            <marker date="1529510215716" expanded="false" signature="2914:3311" ph="ShapeMode" />
+            <marker date="1529510215716" expanded="true" signature="2969:3291" ph="{...}" />
+            <marker date="1529510215716" expanded="false" signature="3321:3757" ph="Line Mode" />
+            <marker date="1529510215716" expanded="true" signature="3376:3727" ph="{...}" />
+            <marker date="1529510215716" expanded="false" signature="3767:4107" ph="Brush Mode" />
+            <marker date="1529510215716" expanded="true" signature="3823:4087" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Paint.Ra/Form1.Designer.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="227" column="78" selection-start-line="227" selection-start-column="78" selection-end-line="227" selection-end-column="78" />
+          <folding>
+            <marker date="1529510898083" expanded="false" signature="6:56" ph="..." />
+            <marker date="1529510898083" expanded="true" signature="76:28946" ph="{...}" />
+            <marker date="1529510898083" expanded="true" signature="102:28944" ph="{...}" />
+            <marker date="1529510898083" expanded="true" signature="117:193" ph="/// Required designer variable. ... " />
+            <marker date="1529510898083" expanded="true" signature="249:440" ph="/// Clean up any resources being used. ... " />
+            <marker date="1529510898083" expanded="true" signature="496:670" ph="{...}" />
+            <marker date="1529510898083" expanded="true" signature="557:623" ph="{...}" />
+            <marker date="1529510898083" expanded="true" signature="680:27885" ph="Windows Form Designer generated code" />
+            <marker date="1529510898083" expanded="true" signature="734:897" ph="/// Required method for Designer support - do not modify ... " />
+            <marker date="1529510898083" expanded="true" signature="940:27865" ph="{...}" />
+            <marker date="1529510898083" expanded="true" signature="3346:3387" ph="/* panel1 ... */" />
+            <marker date="1529510898083" expanded="true" signature="3901:3942" ph="/* panel2 ... */" />
+            <marker date="1529510898083" expanded="true" signature="4523:4564" ph="/* panel3 ... */" />
+            <marker date="1529510898083" expanded="true" signature="4788:4829" ph="/* label2 ... */" />
+            <marker date="1529510898083" expanded="true" signature="5135:5175" ph="/* sizes ... */" />
+            <marker date="1529510898083" expanded="true" signature="5568:5619" ph="/* flowLayoutPanel1 ... */" />
+            <marker date="1529510898083" expanded="true" signature="6619:6663" ph="/* comboBox1 ... */" />
+            <marker date="1529510898083" expanded="true" signature="6772:7021" ph="{...}" />
+            <marker date="1529510898083" expanded="true" signature="7422:7463" ph="/* label1 ... */" />
+            <marker date="1529510898083" expanded="true" signature="7776:7817" ph="/* label3 ... */" />
+            <marker date="1529510898083" expanded="true" signature="8129:8173" ph="/* comboBox2 ... */" />
+            <marker date="1529510898083" expanded="true" signature="8282:8531" ph="{...}" />
+            <marker date="1529510898083" expanded="true" signature="8931:8973" ph="/* button4 ... */" />
+            <marker date="1529510898083" expanded="true" signature="9972:10014" ph="/* button3 ... */" />
+            <marker date="1529510898083" expanded="true" signature="11011:11058" ph="/* radioButton2 ... */" />
+            <marker date="1529510898083" expanded="true" signature="12125:12172" ph="/* radioButton7 ... */" />
+            <marker date="1529510898083" expanded="true" signature="13241:13288" ph="/* radioButton1 ... */" />
+            <marker date="1529510898083" expanded="true" signature="14445:14492" ph="/* radioButton4 ... */" />
+            <marker date="1529510898083" expanded="true" signature="15553:15600" ph="/* radioButton8 ... */" />
+            <marker date="1529510898083" expanded="true" signature="16692:16739" ph="/* radioButton5 ... */" />
+            <marker date="1529510898083" expanded="true" signature="17898:17945" ph="/* radioButton6 ... */" />
+            <marker date="1529510898083" expanded="true" signature="18964:19011" ph="/* radioButton9 ... */" />
+            <marker date="1529510898083" expanded="true" signature="20077:20125" ph="/* radioButton10 ... */" />
+            <marker date="1529510898083" expanded="true" signature="21223:21267" ph="/* checkBox1 ... */" />
+            <marker date="1529510898083" expanded="true" signature="22290:22332" ph="/* button2 ... */" />
+            <marker date="1529510898083" expanded="true" signature="23112:23154" ph="/* button1 ... */" />
+            <marker date="1529510898083" expanded="true" signature="23934:23976" ph="/* canvas1 ... */" />
+            <marker date="1529510898083" expanded="true" signature="25442:25489" ph="/* radioButton3 ... */" />
+            <marker date="1529510898083" expanded="true" signature="26546:26586" ph="/* Form1 ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Paint.Ra/Form1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28">
+          <caret line="81" selection-start-line="81" selection-end-line="81" />
+          <folding>
+            <marker date="1529511135787" expanded="true" signature="6:148" ph="..." />
+            <marker date="1529511135787" expanded="true" signature="168:12671" ph="{...}" />
+            <marker date="1529511135787" expanded="true" signature="208:12669" ph="{...}" />
+            <marker date="1529511135787" expanded="true" signature="338:786" ph="{...}" />
+            <marker date="1529511135787" expanded="true" signature="2038:2112" ph="{...}" />
+            <marker date="1529511135787" expanded="true" signature="2175:2335" ph="{...}" />
+            <marker date="1529511135787" expanded="true" signature="2244:2325" ph="{...}" />
+            <marker date="1529511135787" expanded="true" signature="2408:2476" ph="{...}" />
+            <marker date="1529511135787" expanded="true" signature="2538:2681" ph="{...}" />
+            <marker date="1529511135787" expanded="true" signature="2599:2671" ph="{...}" />
+            <marker date="1529511135787" expanded="true" signature="2755:2823" ph="{...}" />
+            <marker date="1529511135787" expanded="true" signature="3437:3894" ph="{...}" />
+            <marker date="1529511135787" expanded="true" signature="3966:4108" ph="{...}" />
+            <marker date="1529511135787" expanded="true" signature="4181:4326" ph="{...}" />
+            <marker date="1529511135787" expanded="true" signature="4397:4754" ph="{...}" />
+            <marker date="1529511135787" expanded="true" signature="4432:4731" ph="{...}" />
+            <marker date="1529511135787" expanded="true" signature="4478:4717" ph="{...}" />
+            <marker date="1529511135787" expanded="true" signature="4823:7842" ph="{...}" />
+            <marker date="1529511135787" expanded="true" signature="4873:7830" ph="{...}" />
+            <marker date="1529511135787" expanded="true" signature="4959:5123" ph="{...}" />
+            <marker date="1529511135787" expanded="true" signature="5198:5370" ph="{...}" />
+            <marker date="1529511135787" expanded="true" signature="5449:5615" ph="{...}" />
+            <marker date="1529511135787" expanded="true" signature="5704:6115" ph="{...}" />
+            <marker date="1529511135787" expanded="true" signature="6194:6628" ph="{...}" />
+            <marker date="1529511135787" expanded="true" signature="6706:7815" ph="{...}" />
+            <marker date="1529511135787" expanded="true" signature="7408:7528" ph="{...}" />
+            <marker date="1529511135787" expanded="true" signature="7950:8034" ph="{...}" />
+            <marker date="1529511135787" expanded="true" signature="8103:8183" ph="{...}" />
+            <marker date="1529511135787" expanded="true" signature="8259:8564" ph="{...}" />
+            <marker date="1529511135787" expanded="true" signature="8307:8421" ph="{...}" />
+            <marker date="1529511135787" expanded="true" signature="8438:8554" ph="{...}" />
+            <marker date="1529511135787" expanded="true" signature="8642:9081" ph="{...}" />
+            <marker date="1529511135787" expanded="true" signature="8681:9031" ph="{...}" />
+            <marker date="1529511135787" expanded="true" signature="8737:8834" ph="{...}" />
+            <marker date="1529511135787" expanded="true" signature="8855:9017" ph="{...}" />
+            <marker date="1529511135787" expanded="true" signature="9159:9225" ph="{...}" />
+            <marker date="1529511135787" expanded="true" signature="9308:10698" ph="{...}" />
+            <marker date="1529511135787" expanded="true" signature="9354:10688" ph="{...}" />
+            <marker date="1529511135787" expanded="true" signature="10779:12123" ph="{...}" />
+            <marker date="1529511135787" expanded="true" signature="10838:12113" ph="{...}" />
+            <marker date="1529511135787" expanded="true" signature="12187:12393" ph="{...}" />
+            <marker date="1529511135787" expanded="true" signature="12213:12310" ph="{...}" />
+            <marker date="1529511135787" expanded="true" signature="12341:12383" ph="{...}" />
+            <marker date="1529511135787" expanded="true" signature="12457:12663" ph="{...}" />
+            <marker date="1529511135787" expanded="true" signature="12483:12580" ph="{...}" />
+            <marker date="1529511135787" expanded="true" signature="12598:12653" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Paint.Ra/Canvas.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="48" column="12" selection-start-line="48" selection-start-column="12" selection-end-line="48" selection-end-column="12" />
+          <folding>
+            <marker date="1529510215450" expanded="false" signature="6:129" ph="..." />
+            <marker date="1529510215450" expanded="true" signature="149:1691" ph="{...}" />
+            <marker date="1529510215450" expanded="true" signature="192:1689" ph="{...}" />
+            <marker date="1529510215450" expanded="true" signature="1268:1647" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Paint.Ra/DrawShape.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="116" column="39" selection-start-line="116" selection-start-column="39" selection-end-line="116" selection-end-column="39" />
+          <folding>
+            <marker date="1529510215532" expanded="true" signature="6:95" ph="..." />
+            <marker date="1529510215532" expanded="true" signature="115:6503" ph="{...}" />
+            <marker date="1529510215532" expanded="true" signature="158:6501" ph="{...}" />
+            <marker date="1529510215532" expanded="true" signature="195:281" ph="{...}" />
+            <marker date="1529510215532" expanded="true" signature="382:994" ph="{...}" />
+            <marker date="1529510215532" expanded="true" signature="614:872" ph="{...}" />
+            <marker date="1529510215532" expanded="true" signature="1004:5955" ph="Shape Draw" />
+            <marker date="1529510215532" expanded="false" signature="1083:3318" ph="{...}" />
+            <marker date="1529510215532" expanded="true" signature="1159:1255" ph="{...}" />
+            <marker date="1529510215532" expanded="true" signature="1294:3308" ph="{...}" />
+            <marker date="1529510215532" expanded="true" signature="3378:5935" ph="{...}" />
+            <marker date="1529510215532" expanded="true" signature="3477:5925" ph="{...}" />
+            <marker date="1529510215532" expanded="false" signature="5965:6495" ph="Mouse Events" />
+            <marker date="1529510215532" expanded="false" signature="6057:6240" ph="{...}" />
+            <marker date="1529510215532" expanded="false" signature="6309:6475" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Paint.Ra/Behaviour.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="332">
+          <caret line="56" column="34" selection-start-line="56" selection-start-column="34" selection-end-line="56" selection-end-column="34" />
+          <folding>
+            <marker date="1529511135735" expanded="true" signature="6:81" ph="..." />
+            <marker date="1529511135735" expanded="true" signature="101:2219" ph="{...}" />
+            <marker date="1529511135735" expanded="true" signature="144:2217" ph="{...}" />
+            <marker date="1529511135735" expanded="true" signature="159:686" ph="Undo Redo" />
+            <marker date="1529511135735" expanded="true" signature="204:426" ph="{...}" />
+            <marker date="1529511135735" expanded="true" signature="230:343" ph="{...}" />
+            <marker date="1529511135735" expanded="true" signature="374:416" ph="{...}" />
+            <marker date="1529511135735" expanded="true" signature="453:658" ph="{...}" />
+            <marker date="1529511135735" expanded="true" signature="479:575" ph="{...}" />
+            <marker date="1529511135735" expanded="true" signature="606:648" ph="{...}" />
+            <marker date="1529511135735" expanded="true" signature="696:1316" ph="Image Control" />
+            <marker date="1529511135735" expanded="false" signature="772:1048" ph="{...}" />
+            <marker date="1529511135735" expanded="true" signature="1088:1288" ph="{...}" />
+            <marker date="1529511135735" expanded="true" signature="1149:1211" ph="{...}" />
+            <marker date="1529511135735" expanded="false" signature="1326:1506" ph="Set Line Anchor" />
+            <marker date="1529511135735" expanded="true" signature="1400:1486" ph="{...}" />
+            <marker date="1529511135735" expanded="false" signature="1516:2210" ph="Common mouse controls" />
+            <marker date="1529511135735" expanded="true" signature="1617:1889" ph="{...}" />
+            <marker date="1529511135735" expanded="true" signature="1959:2048" ph="{...}" />
+            <marker date="1529511135735" expanded="true" signature="2120:2190" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

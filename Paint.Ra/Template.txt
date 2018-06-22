@@ -1,0 +1,54 @@
+﻿    public void drawLine()
+        {
+            //Graphics g = Graphics.FromImage(background);
+            Pen a = new Pen(Brushes.Black, lineSize);
+
+            Bitmap targetBitmap; 
+
+            if (Image != null)
+            {
+                targetBitmap = new Bitmap(Image, ClientSize.Width, ClientSize.Height);
+            }
+            else
+            {
+                targetBitmap = new Bitmap(ClientSize.Width, ClientSize.Height);
+            }
+
+            using (Bitmap sourceBitmap = new Bitmap(ClientSize.Width, ClientSize.Height))
+            {
+                using (Graphics g = Graphics.FromImage(targetBitmap))
+                {
+                    g.DrawLine(a, firstClick, lastLocation);
+                }
+            }
+            actions.Add(targetBitmap);
+            index = actions.Count() - 1;
+            Image = targetBitmap;
+
+            
+
+            usedPoints.Add(firstClick);
+            usedPoints.Add(lastLocation);
+            lastUsed = lastLocation;
+        }
+        public void drawLine(Point a, Point b)
+        {
+            firstClick = a;
+            lastLocation = b;
+            drawLine();
+        }
+        private void LineDrawRelease(object sender, MouseEventArgs e)
+        {
+            lastLocation = mousePosition;
+            drawLine();
+            //background = new Bitmap(Width,Height,g);
+            currentlyDrawing = false;
+
+
+        }
+        private void LineHoldDown(object sender, MouseEventArgs e)
+        {
+            firstClick = mousePosition;
+            currentlyDrawing = currentlyDrawing ? currentlyDrawing : true;
+            //draw.Start();
+        }
